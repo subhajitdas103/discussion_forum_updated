@@ -21,48 +21,54 @@
 
 Home Page:
 
-![1684860654505](image/README/1684860654505.jpg)
+![1 home](https://github.com/subhajitdas103/discussion_forum_updated/assets/53931017/17d42603-244b-487d-8488-b1a895c558ef)
+
 
 Registration Page :
 
-![1684860702442](image/README/1684860702442.jpg)
+![register](https://github.com/subhajitdas103/discussion_forum_updated/assets/53931017/d41fc3e4-af5d-4270-83e6-4c40ec45eb9e)
+
+
 
 Login :
 
-![1684860982980](image/README/1684860982980.jpg)
+![2 login](https://github.com/subhajitdas103/discussion_forum_updated/assets/53931017/745d1933-3f3a-42e8-be07-779482c21836)
+
 
 
 
 After Login Post a thread :
 
-![1684860749097](image/README/1684860749097.jpg)
-
-Post a Thread :
-
-![1684860826404](image/README/1684860826404.jpg)
+![post](https://github.com/subhajitdas103/discussion_forum_updated/assets/53931017/bfe46357-15d0-4f8b-bb79-b02d9a112b65)
 
 
 My Comment in All User Page :
 
-![1684860880604](image/README/1684860880604.jpg)
+![recent coments](https://github.com/subhajitdas103/discussion_forum_updated/assets/53931017/003dee94-bf18-460f-a800-c83750c01e42)
+
 
 Edit profile :
 
-![1684860912482](image/README/1684860912482.jpg)
+![edit profile](https://github.com/subhajitdas103/discussion_forum_updated/assets/53931017/2ad3f77f-32db-49a0-bdb9-96e1646aab0b)
+
 
 
 Complete the  Profile Page :
 
+![complete profile](https://github.com/subhajitdas103/discussion_forum_updated/assets/53931017/4a6e1939-bc59-4f00-9be3-fb6ab63bc72d)
 
-![1684860942636](image/README/1684860942636.jpg)
+
 
 Database :
 
+![db](https://github.com/subhajitdas103/discussion_forum_updated/assets/53931017/cfc17d50-22d2-4baa-8d09-1fef36d8c0df)
 
-![1684861113998](image/README/1684861113998.png)
+
+
 
 
 DB User Table :
 
+![user table](https://github.com/subhajitdas103/discussion_forum_updated/assets/53931017/65303825-11b4-495c-8899-1880360e81bf)
 
-![1684861162473](image/README/1684861162473.png)
+
