@@ -12,10 +12,9 @@
 2. [Composer](https://getcomposer.org/download/)
 3. [Laravel](https://laravel.com/docs/7.x) 10.x
 4. [Laravel Livewire](https://laravel-livewire.com/)
-5. [Laravel Team Tea Time](https://www.teamteatime.net/docs/laravel-forum/5/)
-6. Bootstrap
-7. MySql
-8. Xampp
+5. Bootstrap
+6. MySql
+7. Xampp
 
 # **Interface**
 
@@ -38,6 +37,7 @@ Login :
 
 
 After Login Post a thread :
+![after login](https://github.com/subhajitdas103/discussion_forum_updated/assets/53931017/7a7f5c5b-9f26-46b2-abac-1e5df7b85b36)
 
 ![post](https://github.com/subhajitdas103/discussion_forum_updated/assets/53931017/bfe46357-15d0-4f8b-bb79-b02d9a112b65)
 
